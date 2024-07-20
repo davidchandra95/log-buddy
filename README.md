@@ -1,4 +1,4 @@
-Proglog is a simple distribution system written in Go
+Log-Buddy is a simple distribution system written in Go
 
 Terms:
 - Record--the data stored in our log.
